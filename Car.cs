@@ -1,27 +1,88 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text;
 
-namespace RawData
+namespace CarManufacturer
 {
-    internal class Car
+    class Car
     {
-        public Car(string model, int speed, int power, int weight, string type, double tyre1preasure, int age1, double tyre2preasure, int age2, double tyre3preasure, int age3, double tyre4preasure, int age4)
+        public Car() 
         {
-            Model = model;
-            Engine = new Engine(speed, power);
-            Cargo = new Cargo(weight, type);
-            Tyres = new Tyre[4];
-            Tyres[0] = new Tyre(tyre1preasure, age1);
-            Tyres[1] = new Tyre(tyre2preasure, age2);
-            Tyres[2] = new Tyre(tyre3preasure, age3);
-            Tyres[3] = new Tyre(tyre4preasure, age4);
+            Make = "VW";
+            Model = "Golf";
+            Year = 2025;
+            FuelQuantity = 200;
+            FuelConsumption = 10;
         }
-        public string Model { get; set; }
-        public Engine Engine { get; set; }
-        public Cargo Cargo { get; set; }
-        public Tyre[] Tyres { get; set; }
+
+        public Car(string make, string model, int year) : this() 
+        {
+            Make = make;
+            Model = model;
+            Year = year;
+        }
+
+        public Car(string make, string model, int year, double fuelQuantity, double fuelConsumption) : this(make, model, year) 
+        {
+            FuelQuantity = fuelQuantity;
+            FuelConsumption = fuelConsumption;
+        }
+
+        private string make;
+        public string Make
+        {
+            get { return make; }
+            set { make = value; }
+        }
+
+        private string model;
+        public string Model
+        {
+            get { return model; }
+            set { model = value; }
+        }
+        private int year;
+        public int Year
+        {
+            get { return year; }
+            set { year = value; }
+        }
+
+        private double fuelQuantity;
+
+        public double FuelQuantity
+        {
+            get { return fuelQuantity; }
+            set { fuelQuantity = value; }
+        }
+
+        private double fuelConsumption;
+
+        public double FuelConsumption
+        {
+            get { return fuelConsumption; }
+            set { fuelConsumption = value; }
+        }
+
+        public void Drive(double distance)
+        {
+            if (distance * fuelConsumption > fuelQuantity)
+            {
+                Console.WriteLine("Not enough fuel to perform this trip!");
+            }
+            else
+            {
+                fuelQuantity -= distance * fuelConsumption;
+            }
+        }
+
+        public string WhoAmI()
+        {
+            StringBuilder result = new StringBuilder();
+            result.AppendLine($"Make: {this.Make}");
+            result.AppendLine($"Model: {this.Model}");
+            result.AppendLine($"Year: {this.Year}");
+            result.AppendLine($"Fuel: {this.FuelQuantity:f2}");
+            return result.ToString();
+        }
+
     }
 }
