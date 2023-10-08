@@ -1,0 +1,14 @@
+D:\GOOSE THING ONLY\SoftSeltsam\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\net6.0\Implementing Stack and Queue.exe
+D:\GOOSE THING ONLY\SoftSeltsam\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\net6.0\Implementing Stack and Queue.deps.json
+D:\GOOSE THING ONLY\SoftSeltsam\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\net6.0\Implementing Stack and Queue.runtimeconfig.json
+D:\GOOSE THING ONLY\SoftSeltsam\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\net6.0\Implementing Stack and Queue.dll
+D:\GOOSE THING ONLY\SoftSeltsam\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\net6.0\Implementing Stack and Queue.pdb
+D:\GOOSE THING ONLY\SoftSeltsam\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\net6.0\Implementing Stack and Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\GOOSE THING ONLY\SoftSeltsam\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\net6.0\Implementing Stack and Queue.AssemblyInfoInputs.cache
+D:\GOOSE THING ONLY\SoftSeltsam\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\net6.0\Implementing Stack and Queue.AssemblyInfo.cs
+D:\GOOSE THING ONLY\SoftSeltsam\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\net6.0\Implementing Stack and Queue.csproj.CoreCompileInputs.cache
+D:\GOOSE THING ONLY\SoftSeltsam\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\net6.0\Implementing Stack and Queue.dll
+D:\GOOSE THING ONLY\SoftSeltsam\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\net6.0\refint\Implementing Stack and Queue.dll
+D:\GOOSE THING ONLY\SoftSeltsam\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\net6.0\Implementing Stack and Queue.pdb
+D:\GOOSE THING ONLY\SoftSeltsam\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\net6.0\Implementing Stack and Queue.genruntimeconfig.cache
+D:\GOOSE THING ONLY\SoftSeltsam\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\net6.0\ref\Implementing Stack and Queue.dll
