@@ -1,0 +1,4 @@
+D:\GOOSE THING ONLY\SoftSeltsam\03. Shoe Store_Skeleton_6.0\obj\Debug\net6.0\ShoeStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\GOOSE THING ONLY\SoftSeltsam\03. Shoe Store_Skeleton_6.0\obj\Debug\net6.0\ShoeStore.AssemblyInfoInputs.cache
+D:\GOOSE THING ONLY\SoftSeltsam\03. Shoe Store_Skeleton_6.0\obj\Debug\net6.0\ShoeStore.AssemblyInfo.cs
+D:\GOOSE THING ONLY\SoftSeltsam\03. Shoe Store_Skeleton_6.0\obj\Debug\net6.0\ShoeStore.csproj.CoreCompileInputs.cache

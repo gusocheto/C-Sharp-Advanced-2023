@@ -1,0 +1,14 @@
+D:\GOOSE THING ONLY\SoftSeltsam\ExamPrep1342353432\ClimbthePeaks\bin\Debug\net6.0\ClimbthePeaks.exe
+D:\GOOSE THING ONLY\SoftSeltsam\ExamPrep1342353432\ClimbthePeaks\bin\Debug\net6.0\ClimbthePeaks.deps.json
+D:\GOOSE THING ONLY\SoftSeltsam\ExamPrep1342353432\ClimbthePeaks\bin\Debug\net6.0\ClimbthePeaks.runtimeconfig.json
+D:\GOOSE THING ONLY\SoftSeltsam\ExamPrep1342353432\ClimbthePeaks\bin\Debug\net6.0\ClimbthePeaks.dll
+D:\GOOSE THING ONLY\SoftSeltsam\ExamPrep1342353432\ClimbthePeaks\bin\Debug\net6.0\ClimbthePeaks.pdb
+D:\GOOSE THING ONLY\SoftSeltsam\ExamPrep1342353432\ClimbthePeaks\obj\Debug\net6.0\ClimbthePeaks.GeneratedMSBuildEditorConfig.editorconfig
+D:\GOOSE THING ONLY\SoftSeltsam\ExamPrep1342353432\ClimbthePeaks\obj\Debug\net6.0\ClimbthePeaks.AssemblyInfoInputs.cache
+D:\GOOSE THING ONLY\SoftSeltsam\ExamPrep1342353432\ClimbthePeaks\obj\Debug\net6.0\ClimbthePeaks.AssemblyInfo.cs
+D:\GOOSE THING ONLY\SoftSeltsam\ExamPrep1342353432\ClimbthePeaks\obj\Debug\net6.0\ClimbthePeaks.csproj.CoreCompileInputs.cache
+D:\GOOSE THING ONLY\SoftSeltsam\ExamPrep1342353432\ClimbthePeaks\obj\Debug\net6.0\ClimbthePeaks.dll
+D:\GOOSE THING ONLY\SoftSeltsam\ExamPrep1342353432\ClimbthePeaks\obj\Debug\net6.0\refint\ClimbthePeaks.dll
+D:\GOOSE THING ONLY\SoftSeltsam\ExamPrep1342353432\ClimbthePeaks\obj\Debug\net6.0\ClimbthePeaks.pdb
+D:\GOOSE THING ONLY\SoftSeltsam\ExamPrep1342353432\ClimbthePeaks\obj\Debug\net6.0\ClimbthePeaks.genruntimeconfig.cache
+D:\GOOSE THING ONLY\SoftSeltsam\ExamPrep1342353432\ClimbthePeaks\obj\Debug\net6.0\ref\ClimbthePeaks.dll
